@@ -1,17 +1,20 @@
-# Stopwatch
+# ⏱️ Stopwatch Application
 
-A simple timer to learn how to use activity lifecycle.
+A simple and lightweight stopwatch application built with **Kotlin**.  
+It allows users to **start, stop and reset time** with ease.
 
-<p align="center">
-<img src="screenshot.png" style="width:528px;max-width: 100%;">
-</p>
+---
 
-## Features
+## 🚀 Features
+- Start, stop, and reset the timer
+- Display elapsed time in minutes, seconds, and milliseconds
+- Lightweight and responsive UI
+- Easy to customize and extend
 
-- starting, pausing and resetting a Chronometer view.
-- saving the current state in a Bundle.
-- handling state when an activity becomes invisible.
-- handling state when an activity doesn't have the focus.
-- refactoring to implement view binding.
+---
 
-Based on [Head First Android Development: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Android-Development-Brain-Friendly/dp/1449362184) by David Griffiths and Dawn Griffiths (2021).
+## 🛠️ Installation & Setup
+
+1. Clone the repository:
+   git clone https://github.com/nkemrogo/stopwatch.git
+   cd stopwatch
